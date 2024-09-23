@@ -1,19 +1,10 @@
-!Title: AWAvenue Ads Rule
-!Last modified: 2024-09-14T15:21:22.467301+00:00
-!--------------------------------------
-!Total lines: 653
-!Version: 1.5.2-release
-
-!Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
-!License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
-
-
 domain:1010pic.com
 domain:16dd-advertise-1252317822.file.myqcloud.com
 domain:16dd-advertise-1252317822.image.myqcloud.com
 domain:8le8le.com
 domain:a0.app.xiaomi.com
 domain:aaid.umeng.com
+domain:abtest-ch.snssdk.com
 domain:ad-cache.dopool.com
 domain:ad-cdn.qingting.fm
 domain:ad-scope.com
@@ -112,9 +103,11 @@ domain:advertising.yandex.ru
 domain:advice-ads.s3.amazonaws.com
 domain:adview.cn
 domain:adx-ad.smart-tv.cn
+domain:adx-bj.anythinktech.com
 domain:adx-cn.anythinktech.com
 domain:adx-drcn.op.dbankcloud.cn
 domain:adx-open-service.youku.com
+domain:adx-os.anythinktech.com
 domain:adx.ads.heytapmobi.com
 domain:adx.ads.oppomobile.com
 domain:adxlog-adnet.vivo.com.cn
@@ -174,6 +167,7 @@ domain:audid-api.taobao.com
 domain:audid.umeng.com
 domain:azr.footprintdns.com
 domain:b1-data.ads.heytapmobi.com
+domain:bdad.123pan.cn
 domain:bdapi-ads.realmemobile.com
 domain:bdapi-in-ads.realmemobile.com
 domain:bdapi.ads.oppomobile.com
@@ -182,6 +176,7 @@ domain:beacon.qq.com
 domain:beaconcdn.qq.com
 domain:beacons.gvt2.com
 domain:beizi.biz
+domain:bes-mtj.baidu.com
 domain:bgg.baidu.com
 domain:bianxian.com
 domain:bingads.microsoft.com
@@ -198,6 +193,7 @@ domain:c.kuaiduizuoye.com
 domain:c.sayhi.360.cn
 domain:c2.gdt.qq.com
 domain:catalog.fjwhcbsh.com
+domain:cbjs.baidu.com
 domain:ccs.umeng.com
 domain:cctv.adsunion.com
 domain:cdn-ad.wtzw.com
@@ -220,6 +216,7 @@ domain:conn-service-cn-05.allawntech.com
 domain:conn-service-in-03.allawnos.com
 domain:conn-service-in-04.allawnos.com
 domain:conn-service-in-05.allawnos.com
+domain:cpro.baidustatic.com
 domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
@@ -332,6 +329,7 @@ domain:ks.pull.yximgs.com
 domain:launcher.smart-tv.cn
 domain:launcherimg.smart-tv.cn
 domain:lf3-ad-union-sdk.pglstatp-toutiao.com
+domain:lf6-ad-union-sdk.pglstatp-toutiao.com
 domain:litchiads.com
 domain:liveats-vod.video.ptqy.gitv.tv
 domain:livemonitor.huan.tv
@@ -451,6 +449,7 @@ domain:pixon.ads-pixiv.net
 domain:plbslog.umeng.com
 domain:pms.mb.qq.com
 domain:policy.video.ptqy.gitv.tv
+domain:pos.baidu.com
 domain:proxy.advp.apple.com
 domain:public.gdtimg.com
 domain:q.i.gdt.qq.com
@@ -583,6 +582,7 @@ domain:ulogs.umeng.com
 domain:ulogs.umengcloud.com
 domain:umengacs.m.taobao.com
 domain:umengjmacs.m.taobao.com
+domain:umini.shujupie.com
 domain:umsns.com
 domain:union.baidu.cn
 domain:union.baidu.com
@@ -594,7 +594,9 @@ domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
 domain:v2-ad.video.yximgs.com
 domain:v2.gdt.qq.com
+domain:v2mi.gdt.qq.com
 domain:v3-ad.video.yximgs.com
+domain:v3.gdt.qq.com
 domain:video-ad.sm.cn
 domain:video-dsp.pddpic.com
 domain:video.dispatch.tc.qq.com
@@ -636,7 +638,6 @@ domain:webstat.qiumibao.com
 domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:win.gdt.qq.com
-domain:wn.pos.baidu.com
 domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com

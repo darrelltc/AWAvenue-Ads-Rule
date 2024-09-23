@@ -1,8 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-09-14T15:21:22.467301+00:00
 #--------------------------------------
-#Total lines: 653
-#Version: 1.5.2-release
+#Total lines: 664
+#Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -18,6 +17,7 @@
 0.0.0.0 8le8le.com
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
+0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 ad-cache.dopool.com
 0.0.0.0 ad-cdn.qingting.fm
 0.0.0.0 ad-scope.com
@@ -116,9 +116,11 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 adview.cn
 0.0.0.0 adx-ad.smart-tv.cn
+0.0.0.0 adx-bj.anythinktech.com
 0.0.0.0 adx-cn.anythinktech.com
 0.0.0.0 adx-drcn.op.dbankcloud.cn
 0.0.0.0 adx-open-service.youku.com
+0.0.0.0 adx-os.anythinktech.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adxlog-adnet.vivo.com.cn
@@ -178,6 +180,7 @@
 0.0.0.0 audid.umeng.com
 0.0.0.0 azr.footprintdns.com
 0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 bdad.123pan.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
@@ -186,6 +189,7 @@
 0.0.0.0 beaconcdn.qq.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beizi.biz
+0.0.0.0 bes-mtj.baidu.com
 0.0.0.0 bgg.baidu.com
 0.0.0.0 bianxian.com
 0.0.0.0 bingads.microsoft.com
@@ -202,6 +206,7 @@
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 c2.gdt.qq.com
 0.0.0.0 catalog.fjwhcbsh.com
+0.0.0.0 cbjs.baidu.com
 0.0.0.0 ccs.umeng.com
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
@@ -224,6 +229,7 @@
 0.0.0.0 conn-service-in-03.allawnos.com
 0.0.0.0 conn-service-in-04.allawnos.com
 0.0.0.0 conn-service-in-05.allawnos.com
+0.0.0.0 cpro.baidustatic.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
@@ -336,6 +342,7 @@
 0.0.0.0 launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn
 0.0.0.0 lf3-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0 lf6-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0 litchiads.com
 0.0.0.0 liveats-vod.video.ptqy.gitv.tv
 0.0.0.0 livemonitor.huan.tv
@@ -455,6 +462,7 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
+0.0.0.0 pos.baidu.com
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
@@ -587,6 +595,7 @@
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengjmacs.m.taobao.com
+0.0.0.0 umini.shujupie.com
 0.0.0.0 umsns.com
 0.0.0.0 union.baidu.cn
 0.0.0.0 union.baidu.com
@@ -598,7 +607,9 @@
 0.0.0.0 v1-ad.video.yximgs.com
 0.0.0.0 v2-ad.video.yximgs.com
 0.0.0.0 v2.gdt.qq.com
+0.0.0.0 v2mi.gdt.qq.com
 0.0.0.0 v3-ad.video.yximgs.com
+0.0.0.0 v3.gdt.qq.com
 0.0.0.0 video-ad.sm.cn
 0.0.0.0 video-dsp.pddpic.com
 0.0.0.0 video.dispatch.tc.qq.com
@@ -640,7 +651,6 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 win.gdt.qq.com
-0.0.0.0 wn.pos.baidu.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com
