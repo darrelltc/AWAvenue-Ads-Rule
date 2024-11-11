@@ -31,7 +31,7 @@
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
 
-*截止2024年5月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。*
+*截止2024年11月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。*
 
 ### *如果您对本规则的内容有意见或建议，在提交issue/进群反馈前，请您务必查看我们的[常见问题](https://awavenue.top/Knowledge.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-%E4%B8%8E%E7%AD%94%E7%96%91)部分，这些内容也许可以解决您的一些疑问。*
 
@@ -89,9 +89,9 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 ## 🍁赞助商 | Special sponsors
 
-[倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
+[Stay浏览器 - 无核轻量,专注于提升本身浏览体验的浏览器](https://play.google.com/store/apps/details?id=com.dajiu.stay)
 
-[画境播放器 - 海外正版流媒体播放器](https://video.iamok.in/)
+[倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
 
 ---
 

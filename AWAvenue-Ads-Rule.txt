@@ -1,12 +1,16 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 687
-!Version: 1.5.3-release
+!Total lines: 698
+!Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
+127.0.0.1 116.205.193.167
+127.0.0.1 123.56.23.22
+127.0.0.1 182.254.116.116
+127.0.0.1 203.205.137.89
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
 ||16dd-advertise-1252317822.image.myqcloud.com^
@@ -16,8 +20,12 @@
 ||abtest-ch.snssdk.com^
 ||ad-cache.dopool.com^
 ||ad-cdn.qingting.fm^
+||ad-cmp.hismarttv.com^
+||ad-download.hismarttv.com^
+||ad-imp.hismarttv.com^
 ||ad-scope.com^
 ||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
 ||ad.12306.cn^
 ||ad.51wnl.com^
@@ -40,6 +48,7 @@
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
 ||adcdn.tencentmusic.com^
+||adclick.g.doubleclick.net^
 ||adclick.tencentmusic.com^
 ||adcolony.com^
 ||adexpo.tencentmusic.com^
@@ -216,6 +225,7 @@
 ||cctv.adsunion.com^
 ||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.ad.xiaomi.com^
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
@@ -248,7 +258,6 @@
 ||dm.toutiao.com^
 ||domain.aishengji.com^
 ||doubleclick-cn.net^
-||doubleclick.net^
 ||download.changhong.upgrade2.huan.tv^
 ||downloadxml.changhong.upgrade2.huan.tv^
 ||drcn-weather.cloud.huawei.com^
@@ -293,7 +302,6 @@
 ||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||hanlanad.com^
-||henzanapp.com^
 ||hexagon-analytics.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
@@ -605,11 +613,13 @@
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
+||upgrade-update.hismarttv.com^
 ||us.l.qq.com^
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^
 ||v2-ad.video.yximgs.com^
+||v2-api-channel-launcher.hismarttv.com^
 ||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
@@ -619,6 +629,7 @@
 ||video.dispatch.tc.qq.com^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 ||vlive.qqvideo.tc.qq.com^
+||volc.bj.ad.track.66mobi.com^
 ||vungle.com^
 ||w.l.qq.com^
 ||w1.askwai.com^

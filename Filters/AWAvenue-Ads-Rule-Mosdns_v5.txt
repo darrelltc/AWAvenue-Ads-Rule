@@ -7,8 +7,12 @@ domain:aaid.umeng.com
 domain:abtest-ch.snssdk.com
 domain:ad-cache.dopool.com
 domain:ad-cdn.qingting.fm
+domain:ad-cmp.hismarttv.com
+domain:ad-download.hismarttv.com
+domain:ad-imp.hismarttv.com
 domain:ad-scope.com
 domain:ad-scope.com.cn
+domain:ad-sdk-config.youdao.com
 domain:ad-sdk.huxiu.com
 domain:ad.12306.cn
 domain:ad.51wnl.com
@@ -31,6 +35,7 @@ domain:adapi.izuiyou.com
 domain:adapi.yynetwk.com
 domain:adashbc.ut.taobao.com
 domain:adcdn.tencentmusic.com
+domain:adclick.g.doubleclick.net
 domain:adclick.tencentmusic.com
 domain:adcolony.com
 domain:adexpo.tencentmusic.com
@@ -207,6 +212,7 @@ domain:ccs.umeng.com
 domain:cctv.adsunion.com
 domain:cdn-ad.wtzw.com
 domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
+domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.ad.xiaomi.com
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
@@ -239,7 +245,6 @@ domain:dlogs.bwton.com
 domain:dm.toutiao.com
 domain:domain.aishengji.com
 domain:doubleclick-cn.net
-domain:doubleclick.net
 domain:download.changhong.upgrade2.huan.tv
 domain:downloadxml.changhong.upgrade2.huan.tv
 domain:drcn-weather.cloud.huawei.com
@@ -284,7 +289,6 @@ domain:grs.platform.dbankcloud.ru
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
 domain:hanlanad.com
-domain:henzanapp.com
 domain:hexagon-analytics.com
 domain:hm.baidu.com
 domain:hmma.baidu.com
@@ -596,11 +600,13 @@ domain:union.baidu.cn
 domain:union.baidu.com
 domain:update.avlyun.sec.miui.com
 domain:update.lejiao.tv
+domain:upgrade-update.hismarttv.com
 domain:us.l.qq.com
 domain:v.adintl.cn
 domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
 domain:v2-ad.video.yximgs.com
+domain:v2-api-channel-launcher.hismarttv.com
 domain:v2.gdt.qq.com
 domain:v2mi.gdt.qq.com
 domain:v3-ad.video.yximgs.com
@@ -610,6 +616,7 @@ domain:video-dsp.pddpic.com
 domain:video.dispatch.tc.qq.com
 domain:virusinfo-cloudscan-cn.heytapmobi.com
 domain:vlive.qqvideo.tc.qq.com
+domain:volc.bj.ad.track.66mobi.com
 domain:vungle.com
 domain:w.l.qq.com
 domain:w1.askwai.com

@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 673
-!Version: 1.5.3-release
+!Total lines: 680
+!Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,8 +20,12 @@
 127.0.0.1 abtest-ch.snssdk.com
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad-cdn.qingting.fm
+127.0.0.1 ad-cmp.hismarttv.com
+127.0.0.1 ad-download.hismarttv.com
+127.0.0.1 ad-imp.hismarttv.com
 127.0.0.1 ad-scope.com
 127.0.0.1 ad-scope.com.cn
+127.0.0.1 ad-sdk-config.youdao.com
 127.0.0.1 ad-sdk.huxiu.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.51wnl.com
@@ -44,6 +48,7 @@
 127.0.0.1 adapi.yynetwk.com
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adcdn.tencentmusic.com
+127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adclick.tencentmusic.com
 127.0.0.1 adcolony.com
 127.0.0.1 adexpo.tencentmusic.com
@@ -220,6 +225,7 @@
 127.0.0.1 cctv.adsunion.com
 127.0.0.1 cdn-ad.wtzw.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
+127.0.0.1 cdn-plugin-sync-upgrade-juui.hismarttv.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ynuf.aliapp.org
 127.0.0.1 cfg.imtt.qq.com
@@ -252,7 +258,6 @@
 127.0.0.1 dm.toutiao.com
 127.0.0.1 domain.aishengji.com
 127.0.0.1 doubleclick-cn.net
-127.0.0.1 doubleclick.net
 127.0.0.1 download.changhong.upgrade2.huan.tv
 127.0.0.1 downloadxml.changhong.upgrade2.huan.tv
 127.0.0.1 drcn-weather.cloud.huawei.com
@@ -297,7 +302,6 @@
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 hanlanad.com
-127.0.0.1 henzanapp.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
@@ -609,11 +613,13 @@
 127.0.0.1 union.baidu.com
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 update.lejiao.tv
+127.0.0.1 upgrade-update.hismarttv.com
 127.0.0.1 us.l.qq.com
 127.0.0.1 v.adintl.cn
 127.0.0.1 v.adx.hubcloud.com.cn
 127.0.0.1 v1-ad.video.yximgs.com
 127.0.0.1 v2-ad.video.yximgs.com
+127.0.0.1 v2-api-channel-launcher.hismarttv.com
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 v2mi.gdt.qq.com
 127.0.0.1 v3-ad.video.yximgs.com
@@ -623,6 +629,7 @@
 127.0.0.1 video.dispatch.tc.qq.com
 127.0.0.1 virusinfo-cloudscan-cn.heytapmobi.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
+127.0.0.1 volc.bj.ad.track.66mobi.com
 127.0.0.1 vungle.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 w1.askwai.com

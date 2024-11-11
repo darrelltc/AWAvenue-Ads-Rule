@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 673
-#Version: 1.5.3-release
+#Total lines: 680
+#Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,8 +20,12 @@
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 ad-cache.dopool.com
 0.0.0.0 ad-cdn.qingting.fm
+0.0.0.0 ad-cmp.hismarttv.com
+0.0.0.0 ad-download.hismarttv.com
+0.0.0.0 ad-imp.hismarttv.com
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
+0.0.0.0 ad-sdk-config.youdao.com
 0.0.0.0 ad-sdk.huxiu.com
 0.0.0.0 ad.12306.cn
 0.0.0.0 ad.51wnl.com
@@ -44,6 +48,7 @@
 0.0.0.0 adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adcdn.tencentmusic.com
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.tencentmusic.com
 0.0.0.0 adcolony.com
 0.0.0.0 adexpo.tencentmusic.com
@@ -220,6 +225,7 @@
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
+0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cfg.imtt.qq.com
@@ -252,7 +258,6 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 domain.aishengji.com
 0.0.0.0 doubleclick-cn.net
-0.0.0.0 doubleclick.net
 0.0.0.0 download.changhong.upgrade2.huan.tv
 0.0.0.0 downloadxml.changhong.upgrade2.huan.tv
 0.0.0.0 drcn-weather.cloud.huawei.com
@@ -297,7 +302,6 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
 0.0.0.0 hanlanad.com
-0.0.0.0 henzanapp.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
@@ -609,11 +613,13 @@
 0.0.0.0 union.baidu.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.lejiao.tv
+0.0.0.0 upgrade-update.hismarttv.com
 0.0.0.0 us.l.qq.com
 0.0.0.0 v.adintl.cn
 0.0.0.0 v.adx.hubcloud.com.cn
 0.0.0.0 v1-ad.video.yximgs.com
 0.0.0.0 v2-ad.video.yximgs.com
+0.0.0.0 v2-api-channel-launcher.hismarttv.com
 0.0.0.0 v2.gdt.qq.com
 0.0.0.0 v2mi.gdt.qq.com
 0.0.0.0 v3-ad.video.yximgs.com
@@ -623,6 +629,7 @@
 0.0.0.0 video.dispatch.tc.qq.com
 0.0.0.0 virusinfo-cloudscan-cn.heytapmobi.com
 0.0.0.0 vlive.qqvideo.tc.qq.com
+0.0.0.0 volc.bj.ad.track.66mobi.com
 0.0.0.0 vungle.com
 0.0.0.0 w.l.qq.com
 0.0.0.0 w1.askwai.com

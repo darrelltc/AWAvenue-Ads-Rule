@@ -1,13 +1,14 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 691
-#Version: 1.5.3-release
+#Total lines: 699
+#Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
 payload:
+  - IP-CIDR,116.205.193.167/32,no-resolve
   - IP-CIDR,123.56.23.22/32,no-resolve
   - IP-CIDR,182.254.116.116/32,no-resolve
   - IP-CIDR,203.205.137.89/32,no-resolve
@@ -20,8 +21,12 @@ payload:
   - DOMAIN,abtest-ch.snssdk.com
   - DOMAIN,ad-cache.dopool.com
   - DOMAIN,ad-cdn.qingting.fm
+  - DOMAIN,ad-cmp.hismarttv.com
+  - DOMAIN,ad-download.hismarttv.com
+  - DOMAIN,ad-imp.hismarttv.com
   - DOMAIN,ad-scope.com
   - DOMAIN,ad-scope.com.cn
+  - DOMAIN,ad-sdk-config.youdao.com
   - DOMAIN,ad-sdk.huxiu.com
   - DOMAIN,ad.12306.cn
   - DOMAIN,ad.51wnl.com
@@ -44,6 +49,7 @@ payload:
   - DOMAIN,adapi.yynetwk.com
   - DOMAIN,adashbc.ut.taobao.com
   - DOMAIN,adcdn.tencentmusic.com
+  - DOMAIN,adclick.g.doubleclick.net
   - DOMAIN,adclick.tencentmusic.com
   - DOMAIN,adcolony.com
   - DOMAIN,adexpo.tencentmusic.com
@@ -220,6 +226,7 @@ payload:
   - DOMAIN,cctv.adsunion.com
   - DOMAIN,cdn-ad.wtzw.com
   - DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
+  - DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
   - DOMAIN,cdn.ad.xiaomi.com
   - DOMAIN,cdn.ynuf.aliapp.org
   - DOMAIN,cfg.imtt.qq.com
@@ -252,7 +259,6 @@ payload:
   - DOMAIN,dm.toutiao.com
   - DOMAIN,domain.aishengji.com
   - DOMAIN,doubleclick-cn.net
-  - DOMAIN,doubleclick.net
   - DOMAIN,download.changhong.upgrade2.huan.tv
   - DOMAIN,downloadxml.changhong.upgrade2.huan.tv
   - DOMAIN,drcn-weather.cloud.huawei.com
@@ -297,7 +303,6 @@ payload:
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,h.trace.qq.com
   - DOMAIN,hanlanad.com
-  - DOMAIN,henzanapp.com
   - DOMAIN,hexagon-analytics.com
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
@@ -609,11 +614,13 @@ payload:
   - DOMAIN,union.baidu.com
   - DOMAIN,update.avlyun.sec.miui.com
   - DOMAIN,update.lejiao.tv
+  - DOMAIN,upgrade-update.hismarttv.com
   - DOMAIN,us.l.qq.com
   - DOMAIN,v.adintl.cn
   - DOMAIN,v.adx.hubcloud.com.cn
   - DOMAIN,v1-ad.video.yximgs.com
   - DOMAIN,v2-ad.video.yximgs.com
+  - DOMAIN,v2-api-channel-launcher.hismarttv.com
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,v2mi.gdt.qq.com
   - DOMAIN,v3-ad.video.yximgs.com
@@ -623,6 +630,7 @@ payload:
   - DOMAIN,video.dispatch.tc.qq.com
   - DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
   - DOMAIN,vlive.qqvideo.tc.qq.com
+  - DOMAIN,volc.bj.ad.track.66mobi.com
   - DOMAIN,vungle.com
   - DOMAIN,w.l.qq.com
   - DOMAIN,w1.askwai.com
