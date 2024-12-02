@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 686
-#Version: 1.5.4-release
+#Total lines: 711
+#Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -32,6 +32,7 @@
 0.0.0.0 ad.bwton.com
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cyapi.cn
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.partner.gifshow.com
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
@@ -47,6 +48,8 @@
 0.0.0.0 adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adc.hpplay.cn
+0.0.0.0 adcdn.hpplay.cn
 0.0.0.0 adcdn.tencentmusic.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.tencentmusic.com
@@ -65,6 +68,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-img-qc.xhscdn.com
 0.0.0.0 ads-jp.tiktok.com
+0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-us.tiktok.com
 0.0.0.0 ads-video-al.xhscdn.com
@@ -92,16 +96,22 @@
 0.0.0.0 ads5-normal-lf.zijieapi.com
 0.0.0.0 ads5-normal-lq.zijieapi.com
 0.0.0.0 ads5-normal.zijieapi.com
+0.0.0.0 adse.test.ximalaya.com
+0.0.0.0 adse.wsa.ximalaya.com
+0.0.0.0 adse.ximalaya.com
+0.0.0.0 adsebs.ximalaya.com
 0.0.0.0 adsense.google.cn
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.com
 0.0.0.0 adserviceretry.kugou.com
 0.0.0.0 adsfile.bssdlbig.kugou.com
+0.0.0.0 adsfile.qq.com
 0.0.0.0 adsfilebssdlbig.ali.kugou.com
 0.0.0.0 adsfileretry.service.kugou.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adslvfile.qq.com
 0.0.0.0 adsmart.konka.com
 0.0.0.0 adsmind.gdtimg.com
 0.0.0.0 adsmind.ugdtimg.com
@@ -143,6 +153,7 @@
 0.0.0.0 alog.umeng.com
 0.0.0.0 als.baidu.com
 0.0.0.0 amdcopen.m.taobao.com
+0.0.0.0 amdcopen.m.umeng.com
 0.0.0.0 an.facebook.com
 0.0.0.0 analysis.yozocloud.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
@@ -171,6 +182,7 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao5.com
 0.0.0.0 api-ad-product.huxiu.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 api-gd.hiaiabc.com
 0.0.0.0 api-htp.beizi.biz
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.e.kuaishou.com
@@ -194,6 +206,8 @@
 0.0.0.0 audid.umeng.com
 0.0.0.0 azr.footprintdns.com
 0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 baichuan-sdk.alicdn.com
+0.0.0.0 baichuan-sdk.taobao.com
 0.0.0.0 bdad.123pan.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
@@ -237,6 +251,8 @@
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 clog.miguvideo.com
+0.0.0.0 cnlogs.umeng.com
+0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 cnzz.com
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
@@ -280,6 +296,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
+0.0.0.0 g-adnet.hiaiabc.com
 0.0.0.0 g-staic.ganjingworld.com
 0.0.0.0 g2.ganjing.world
 0.0.0.0 game.loveota.com
@@ -294,6 +311,7 @@
 0.0.0.0 ggx03.miguvideo.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagservices-cn.com
@@ -319,6 +337,7 @@
 0.0.0.0 hw.zuimeitianqi.com
 0.0.0.0 hwpub-s01-drcn.cloud.dbankcloud.cn
 0.0.0.0 hya.comp.360os.com
+0.0.0.0 hybrid.miniapp.taobao.com
 0.0.0.0 hye.comp.360os.com
 0.0.0.0 hyt.comp.360os.com
 0.0.0.0 i.snssdk.com
@@ -400,6 +419,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logtj.kugou.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 m-adnet.hiaiabc.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 0.0.0.0 m.kubiqq.com
@@ -461,6 +481,7 @@
 0.0.0.0 p1-lm.adkwai.com
 0.0.0.0 p2-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 p2-lm.adkwai.com
+0.0.0.0 p2p.huya.com
 0.0.0.0 p3-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 p3-lm.adkwai.com
 0.0.0.0 p3-tt.byteimg.com
@@ -475,6 +496,7 @@
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pig.pupuapi.com
 0.0.0.0 pixon.ads-pixiv.net
+0.0.0.0 pkoplink.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
@@ -491,6 +513,7 @@
 0.0.0.0 res1.hubcloud.com.cn
 0.0.0.0 res2.hubcloud.com.cn
 0.0.0.0 res3.hubcloud.com.cn
+0.0.0.0 resolve.umeng.com
 0.0.0.0 review.gdtimg.com
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn
@@ -557,6 +580,7 @@
 0.0.0.0 stg-data.ads.heytapmobi.com
 0.0.0.0 success.ctobsnssdk.com
 0.0.0.0 syh-imp.cdnjtzy.com
+0.0.0.0 szbdyd.com
 0.0.0.0 t-dsp.pinduoduo.com
 0.0.0.0 t.l.qq.com
 0.0.0.0 t.track.ad.xiaomi.com
@@ -697,3 +721,4 @@
 0.0.0.0 youku-acs.m.taobao.com
 0.0.0.0 youxi.kugou.com
 0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zhihu-web-analytics.zhihu.com
