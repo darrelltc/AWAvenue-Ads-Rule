@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 732
+!Total lines: 740
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -105,6 +105,7 @@
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adservice.google.cn
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.sigmob.cn
 127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adsfile.qq.com
@@ -248,6 +249,7 @@
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 cdn-plugin-sync-upgrade-juui.hismarttv.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 cdn.aiclk.com
 127.0.0.1 cdn.ynuf.aliapp.org
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 chat1.jd.com
@@ -264,6 +266,7 @@
 127.0.0.1 commdata.v.qq.com
 127.0.0.1 config.chsmarttv.com
 127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 cpc-service-square.aiclk.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
@@ -274,6 +277,7 @@
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 dc.sigmob.cn
 127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 dig.bdurl.net
 127.0.0.1 dl.zuimeitianqi.com
@@ -430,6 +434,7 @@
 127.0.0.1 log.zijieapi.com
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 logbak.hicloud.com
+127.0.0.1 logrcv.aiclk.com
 127.0.0.1 logs.amap.com
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 logservice1.hicloud.com
@@ -489,6 +494,7 @@
 127.0.0.1 open.snssdk.com
 127.0.0.1 optimus-ads.amap.com
 127.0.0.1 orbit.jd.com
+127.0.0.1 oss.cdn.aiclk.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 otheve.play.aiseet.atianqi.com
@@ -532,6 +538,7 @@
 127.0.0.1 res2.hubcloud.com.cn
 127.0.0.1 res3.hubcloud.com.cn
 127.0.0.1 resolve.umeng.com
+127.0.0.1 rev.aiclk.com
 127.0.0.1 review.gdtimg.com
 127.0.0.1 rms-drcn.platform.dbankcloud.cn
 127.0.0.1 roi.soulapp.cn
@@ -545,7 +552,6 @@
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungads.com
 127.0.0.1 sanme2.taisantech.com
-127.0.0.1 saveu5-normal-lq.zijieapi.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 scs.openspeech.cn
 127.0.0.1 sdk-ab-config.qquanquan.com
@@ -633,6 +639,7 @@
 127.0.0.1 tnc3-bjlgy.zijieapi.com
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 trace.qq.com
+127.0.0.1 tracelog-debug.aiclk.com
 127.0.0.1 tracelog-debug.qquanquan.com
 127.0.0.1 track.lc.quark.cn
 127.0.0.1 track.uc.cn
@@ -661,9 +668,11 @@
 127.0.0.1 union.baidu.com
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 update.lejiao.tv
+127.0.0.1 update0.aiclk.com
 127.0.0.1 upgrade-update.hismarttv.com
 127.0.0.1 uranus.jd.com
 127.0.0.1 us.l.qq.com
+127.0.0.1 usr-api.aiclk.com
 127.0.0.1 v.adintl.cn
 127.0.0.1 v.adx.hubcloud.com.cn
 127.0.0.1 v1-ad.video.yximgs.com
@@ -730,7 +739,6 @@
 127.0.0.1 wxsnsdythumb.wxs.qq.com
 127.0.0.1 xc.gdt.qq.com
 127.0.0.1 xiaomi-dtv.m.cn.miaozhen.com
-127.0.0.1 xiaoshuo.wtzw.com
 127.0.0.1 xlivrdr.com
 127.0.0.1 xlmzc.cnjp-exp.com
 127.0.0.1 xlog.jd.com

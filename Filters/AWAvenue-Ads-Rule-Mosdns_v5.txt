@@ -92,6 +92,7 @@ domain:adsense.google.cn
 domain:adserver.unityads.unity3d.com
 domain:adservice.google.cn
 domain:adservice.google.com
+domain:adservice.sigmob.cn
 domain:adserviceretry.kugou.com
 domain:adsfile.bssdlbig.kugou.com
 domain:adsfile.qq.com
@@ -235,6 +236,7 @@ domain:cdn-ad.wtzw.com
 domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.ad.xiaomi.com
+domain:cdn.aiclk.com
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
 domain:chat1.jd.com
@@ -251,6 +253,7 @@ domain:collect.kugou.com
 domain:commdata.v.qq.com
 domain:config.chsmarttv.com
 domain:config.unityads.unity3d.com
+domain:cpc-service-square.aiclk.com
 domain:cpro.baidustatic.com
 domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
@@ -261,6 +264,7 @@ domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
 domain:data.mistat.rus.xiaomi.com
 domain:data.mistat.xiaomi.com
+domain:dc.sigmob.cn
 domain:diagnosis.ad.xiaomi.com
 domain:dig.bdurl.net
 domain:dl.zuimeitianqi.com
@@ -417,6 +421,7 @@ domain:log.web.kugou.com
 domain:log.zijieapi.com
 domain:log1.cmpassport.com
 domain:logbak.hicloud.com
+domain:logrcv.aiclk.com
 domain:logs.amap.com
 domain:logservice.hicloud.com
 domain:logservice1.hicloud.com
@@ -476,6 +481,7 @@ domain:open.kwaizt.com
 domain:open.snssdk.com
 domain:optimus-ads.amap.com
 domain:orbit.jd.com
+domain:oss.cdn.aiclk.com
 domain:oth.eve.mdt.qq.com
 domain:oth.str.mdt.qq.com
 domain:otheve.play.aiseet.atianqi.com
@@ -519,6 +525,7 @@ domain:res1.hubcloud.com.cn
 domain:res2.hubcloud.com.cn
 domain:res3.hubcloud.com.cn
 domain:resolve.umeng.com
+domain:rev.aiclk.com
 domain:review.gdtimg.com
 domain:rms-drcn.platform.dbankcloud.cn
 domain:roi.soulapp.cn
@@ -532,7 +539,6 @@ domain:saad.ms.zhangyue.net
 domain:samsung-com.112.2o7.net
 domain:samsungads.com
 domain:sanme2.taisantech.com
-domain:saveu5-normal-lq.zijieapi.com
 domain:scdown.qq.com
 domain:scs.openspeech.cn
 domain:sdk-ab-config.qquanquan.com
@@ -620,6 +626,7 @@ domain:tnc3-bjlgy.toutiaoapi.com
 domain:tnc3-bjlgy.zijieapi.com
 domain:toblog.ctobsnssdk.com
 domain:trace.qq.com
+domain:tracelog-debug.aiclk.com
 domain:tracelog-debug.qquanquan.com
 domain:track.lc.quark.cn
 domain:track.uc.cn
@@ -648,9 +655,11 @@ domain:union.baidu.cn
 domain:union.baidu.com
 domain:update.avlyun.sec.miui.com
 domain:update.lejiao.tv
+domain:update0.aiclk.com
 domain:upgrade-update.hismarttv.com
 domain:uranus.jd.com
 domain:us.l.qq.com
+domain:usr-api.aiclk.com
 domain:v.adintl.cn
 domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
@@ -717,7 +726,6 @@ domain:wxsnsdy.wxs.qq.com
 domain:wxsnsdythumb.wxs.qq.com
 domain:xc.gdt.qq.com
 domain:xiaomi-dtv.m.cn.miaozhen.com
-domain:xiaoshuo.wtzw.com
 domain:xlivrdr.com
 domain:xlmzc.cnjp-exp.com
 domain:xlog.jd.com
