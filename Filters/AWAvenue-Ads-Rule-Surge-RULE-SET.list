@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 755
-#Version: 1.5.6-release
+#Total lines: 746
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -12,6 +12,7 @@ IP-CIDR,123.56.23.22/32,reject
 IP-CIDR,182.254.116.116/32,reject
 IP-CIDR,203.205.137.89/32,reject
 DOMAIN,1010pic.com,reject
+DOMAIN,1500020991.vodplayer.wxamedia.com,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
@@ -73,6 +74,7 @@ DOMAIN,ads-us.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
+DOMAIN,ads.flurry.com,reject
 DOMAIN,ads.google.cn,reject
 DOMAIN,ads.heytapmobi.com,reject
 DOMAIN,ads.huan.tv,reject
@@ -82,6 +84,7 @@ DOMAIN,ads.linkedin.com,reject
 DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.oppomobile.com,reject
 DOMAIN,ads.pinterest.com,reject
+DOMAIN,ads.pubmatic.com,reject
 DOMAIN,ads.servebom.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.tiktok.com,reject
@@ -119,6 +122,8 @@ DOMAIN,adsp.xunlei.com,reject
 DOMAIN,adstats.tencentmusic.com,reject
 DOMAIN,adstore-1252524079.file.myqcloud.com,reject
 DOMAIN,adstore-index-1252524079.file.myqcloud.com,reject
+DOMAIN,adstudio-assets.scdn.co,reject
+DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
@@ -333,9 +338,12 @@ DOMAIN,gromore.pangolin-sdk-toutiao.com,reject
 DOMAIN,grs.dbankcloud.com,reject
 DOMAIN,grs.hicloud.com,reject
 DOMAIN,grs.platform.dbankcloud.ru,reject
+DOMAIN,gvideo.qpic.cn,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
 DOMAIN,hanlanad.com,reject
+DOMAIN,heads-ak.spotify.com.edgesuite.net,reject
+DOMAIN,heads-fa.spotify.com,reject
 DOMAIN,hexagon-analytics.com,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
@@ -461,6 +469,7 @@ DOMAIN,mission-pub.smart-tv.cn,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
 DOMAIN,mmgame.qpic.cn,reject
 DOMAIN,mnqlog.ldmnq.com,reject
+DOMAIN,moatads.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
 DOMAIN,mobads-pre-config.cdn.bcebos.com,reject
 DOMAIN,mobads.baidu.com,reject
@@ -514,6 +523,8 @@ DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
 DOMAIN,pangolin-sdk-toutiao-b.com,reject
 DOMAIN,pay.sboot.cn,reject
+DOMAIN,pcm-img.zhls.qq.com,reject
+DOMAIN,pgdt.gtimg.cn,reject
 DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
 DOMAIN,pig.pupuapi.com,reject
@@ -595,6 +606,7 @@ DOMAIN,snowflake.qq.com,reject
 DOMAIN,stat.dongqiudi.com,reject
 DOMAIN,stat.y.qq.com,reject
 DOMAIN,static.ads-twitter.com,reject
+DOMAIN,static.wxqcloud.qq.com.cn,reject
 DOMAIN,statics.woozooo.com,reject
 DOMAIN,stats.qiumibao.com,reject
 DOMAIN,stats.wp.com,reject
@@ -649,6 +661,7 @@ DOMAIN,tsvrv.com,reject
 DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
+DOMAIN,tytx.m.cn.miaozhen.com,reject
 DOMAIN,tz.sec.xiaomi.com,reject
 DOMAIN,uapi.ads.heytapmobi.com,reject
 DOMAIN,udc.yahoo.com,reject
@@ -689,31 +702,8 @@ DOMAIN,volc.bj.ad.track.66mobi.com,reject
 DOMAIN,vungle.com,reject
 DOMAIN,w.l.qq.com,reject
 DOMAIN,w1.askwai.com,reject
-DOMAIN,w1.bskwai.com,reject
-DOMAIN,w1.cskwai.com,reject
-DOMAIN,w1.dskwai.com,reject
-DOMAIN,w1.eskwai.com,reject
-DOMAIN,w1.fskwai.com,reject
 DOMAIN,w1.gskwai.com,reject
-DOMAIN,w1.hskwai.com,reject
-DOMAIN,w1.iskwai.com,reject
-DOMAIN,w1.jskwai.com,reject
 DOMAIN,w1.kskwai.com,reject
-DOMAIN,w1.lskwai.com,reject
-DOMAIN,w1.mskwai.com,reject
-DOMAIN,w1.nskwai.com,reject
-DOMAIN,w1.oskwai.com,reject
-DOMAIN,w1.pskwai.com,reject
-DOMAIN,w1.qskwai.com,reject
-DOMAIN,w1.rskwai.com,reject
-DOMAIN,w1.sskwai.com,reject
-DOMAIN,w1.tskwai.com,reject
-DOMAIN,w1.uskwai.com,reject
-DOMAIN,w1.vskwai.com,reject
-DOMAIN,w1.wskwai.com,reject
-DOMAIN,w1.xskwai.com,reject
-DOMAIN,w1.yskwai.com,reject
-DOMAIN,w1.zskwai.com,reject
 DOMAIN,watson.microsoft.com,reject
 DOMAIN,watson.telemetry.microsoft.com,reject
 DOMAIN,wcp.taobao.com,reject
@@ -723,6 +713,7 @@ DOMAIN,webstat.qiumibao.com,reject
 DOMAIN,webview.unityads.unity3d.com,reject
 DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
+DOMAIN,wildcard.moatads.com.edgekey.net,reject
 DOMAIN,win.gdt.qq.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject

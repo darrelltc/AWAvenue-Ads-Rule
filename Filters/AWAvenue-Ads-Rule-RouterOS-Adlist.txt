@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 739
-#Version: 1.5.6-release
+#Total lines: 730
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -12,6 +12,7 @@
 
 
 0.0.0.0 1010pic.com
+0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 8le8le.com
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
@@ -73,6 +74,7 @@
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.cn
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.huan.tv
@@ -82,6 +84,7 @@
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.tiktok.com
@@ -119,6 +122,8 @@
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adstore-1252524079.file.myqcloud.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
+0.0.0.0 adstudio-assets.scdn.co
+0.0.0.0 adstudio.spotify.com
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
@@ -333,9 +338,12 @@
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grs.platform.dbankcloud.ru
+0.0.0.0 gvideo.qpic.cn
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
 0.0.0.0 hanlanad.com
+0.0.0.0 heads-ak.spotify.com.edgesuite.net
+0.0.0.0 heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
@@ -461,6 +469,7 @@
 0.0.0.0 miui-fxcse.avlyun.com
 0.0.0.0 mmgame.qpic.cn
 0.0.0.0 mnqlog.ldmnq.com
+0.0.0.0 moatads.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.com
@@ -514,6 +523,8 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 pay.sboot.cn
+0.0.0.0 pcm-img.zhls.qq.com
+0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pig.pupuapi.com
@@ -595,6 +606,7 @@
 0.0.0.0 stat.dongqiudi.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.wxqcloud.qq.com.cn
 0.0.0.0 statics.woozooo.com
 0.0.0.0 stats.qiumibao.com
 0.0.0.0 stats.wp.com
@@ -649,6 +661,7 @@
 0.0.0.0 tvuser-ch.cedock.com
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
+0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 tz.sec.xiaomi.com
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 udc.yahoo.com
@@ -689,31 +702,8 @@
 0.0.0.0 vungle.com
 0.0.0.0 w.l.qq.com
 0.0.0.0 w1.askwai.com
-0.0.0.0 w1.bskwai.com
-0.0.0.0 w1.cskwai.com
-0.0.0.0 w1.dskwai.com
-0.0.0.0 w1.eskwai.com
-0.0.0.0 w1.fskwai.com
 0.0.0.0 w1.gskwai.com
-0.0.0.0 w1.hskwai.com
-0.0.0.0 w1.iskwai.com
-0.0.0.0 w1.jskwai.com
 0.0.0.0 w1.kskwai.com
-0.0.0.0 w1.lskwai.com
-0.0.0.0 w1.mskwai.com
-0.0.0.0 w1.nskwai.com
-0.0.0.0 w1.oskwai.com
-0.0.0.0 w1.pskwai.com
-0.0.0.0 w1.qskwai.com
-0.0.0.0 w1.rskwai.com
-0.0.0.0 w1.sskwai.com
-0.0.0.0 w1.tskwai.com
-0.0.0.0 w1.uskwai.com
-0.0.0.0 w1.vskwai.com
-0.0.0.0 w1.wskwai.com
-0.0.0.0 w1.xskwai.com
-0.0.0.0 w1.yskwai.com
-0.0.0.0 w1.zskwai.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wcp.taobao.com
@@ -723,6 +713,7 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
+0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win.gdt.qq.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com

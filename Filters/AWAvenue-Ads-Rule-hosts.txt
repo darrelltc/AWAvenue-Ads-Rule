@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 739
-!Version: 1.5.6-release
+!Total lines: 730
+!Version: 1.5.8-乙巳蛇年🐍-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -12,6 +12,7 @@
 
 
 127.0.0.1 1010pic.com
+127.0.0.1 1500020991.vodplayer.wxamedia.com
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 aaid.umeng.com
@@ -73,6 +74,7 @@
 127.0.0.1 ads-video-al.xhscdn.com
 127.0.0.1 ads-video-qc.xhscdn.com
 127.0.0.1 ads.95516.com
+127.0.0.1 ads.flurry.com
 127.0.0.1 ads.google.cn
 127.0.0.1 ads.heytapmobi.com
 127.0.0.1 ads.huan.tv
@@ -82,6 +84,7 @@
 127.0.0.1 ads.music.126.net
 127.0.0.1 ads.oppomobile.com
 127.0.0.1 ads.pinterest.com
+127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 ads.tiktok.com
@@ -119,6 +122,8 @@
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 adstore-1252524079.file.myqcloud.com
 127.0.0.1 adstore-index-1252524079.file.myqcloud.com
+127.0.0.1 adstudio-assets.scdn.co
+127.0.0.1 adstudio.spotify.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adtech.yahooinc.com
 127.0.0.1 adtrack.quark.cn
@@ -333,9 +338,12 @@
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.hicloud.com
 127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 gvideo.qpic.cn
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 hanlanad.com
+127.0.0.1 heads-ak.spotify.com.edgesuite.net
+127.0.0.1 heads-fa.spotify.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
@@ -461,6 +469,7 @@
 127.0.0.1 miui-fxcse.avlyun.com
 127.0.0.1 mmgame.qpic.cn
 127.0.0.1 mnqlog.ldmnq.com
+127.0.0.1 moatads.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-pre-config.cdn.bcebos.com
 127.0.0.1 mobads.baidu.com
@@ -514,6 +523,8 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
 127.0.0.1 pay.sboot.cn
+127.0.0.1 pcm-img.zhls.qq.com
+127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pig.pupuapi.com
@@ -595,6 +606,7 @@
 127.0.0.1 stat.dongqiudi.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 static.wxqcloud.qq.com.cn
 127.0.0.1 statics.woozooo.com
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 stats.wp.com
@@ -649,6 +661,7 @@
 127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
+127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 udc.yahoo.com
@@ -689,31 +702,8 @@
 127.0.0.1 vungle.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 w1.askwai.com
-127.0.0.1 w1.bskwai.com
-127.0.0.1 w1.cskwai.com
-127.0.0.1 w1.dskwai.com
-127.0.0.1 w1.eskwai.com
-127.0.0.1 w1.fskwai.com
 127.0.0.1 w1.gskwai.com
-127.0.0.1 w1.hskwai.com
-127.0.0.1 w1.iskwai.com
-127.0.0.1 w1.jskwai.com
 127.0.0.1 w1.kskwai.com
-127.0.0.1 w1.lskwai.com
-127.0.0.1 w1.mskwai.com
-127.0.0.1 w1.nskwai.com
-127.0.0.1 w1.oskwai.com
-127.0.0.1 w1.pskwai.com
-127.0.0.1 w1.qskwai.com
-127.0.0.1 w1.rskwai.com
-127.0.0.1 w1.sskwai.com
-127.0.0.1 w1.tskwai.com
-127.0.0.1 w1.uskwai.com
-127.0.0.1 w1.vskwai.com
-127.0.0.1 w1.wskwai.com
-127.0.0.1 w1.xskwai.com
-127.0.0.1 w1.yskwai.com
-127.0.0.1 w1.zskwai.com
 127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 wcp.taobao.com
@@ -723,6 +713,7 @@
 127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.pinterest.com
+127.0.0.1 wildcard.moatads.com.edgekey.net
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 ws-keyboard.shouji.sogou.com

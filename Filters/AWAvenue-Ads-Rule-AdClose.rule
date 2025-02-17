@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 739
-#Version: 1.5.6-release
+#Total lines: 730
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -11,6 +11,7 @@
 
 
 domain, 1010pic.com
+domain, 1500020991.vodplayer.wxamedia.com
 domain, 8le8le.com
 domain, a0.app.xiaomi.com
 domain, aaid.umeng.com
@@ -72,6 +73,7 @@ domain, ads-us.tiktok.com
 domain, ads-video-al.xhscdn.com
 domain, ads-video-qc.xhscdn.com
 domain, ads.95516.com
+domain, ads.flurry.com
 domain, ads.google.cn
 domain, ads.heytapmobi.com
 domain, ads.huan.tv
@@ -81,6 +83,7 @@ domain, ads.linkedin.com
 domain, ads.music.126.net
 domain, ads.oppomobile.com
 domain, ads.pinterest.com
+domain, ads.pubmatic.com
 domain, ads.servebom.com
 domain, ads.service.kugou.com
 domain, ads.tiktok.com
@@ -118,6 +121,8 @@ domain, adsp.xunlei.com
 domain, adstats.tencentmusic.com
 domain, adstore-1252524079.file.myqcloud.com
 domain, adstore-index-1252524079.file.myqcloud.com
+domain, adstudio-assets.scdn.co
+domain, adstudio.spotify.com
 domain, adtago.s3.amazonaws.com
 domain, adtech.yahooinc.com
 domain, adtrack.quark.cn
@@ -332,9 +337,12 @@ domain, gromore.pangolin-sdk-toutiao.com
 domain, grs.dbankcloud.com
 domain, grs.hicloud.com
 domain, grs.platform.dbankcloud.ru
+domain, gvideo.qpic.cn
 domain, h-adashx.ut.taobao.com
 domain, h.trace.qq.com
 domain, hanlanad.com
+domain, heads-ak.spotify.com.edgesuite.net
+domain, heads-fa.spotify.com
 domain, hexagon-analytics.com
 domain, hm.baidu.com
 domain, hmma.baidu.com
@@ -460,6 +468,7 @@ domain, mission-pub.smart-tv.cn
 domain, miui-fxcse.avlyun.com
 domain, mmgame.qpic.cn
 domain, mnqlog.ldmnq.com
+domain, moatads.com
 domain, mobads-logs.baidu.com
 domain, mobads-pre-config.cdn.bcebos.com
 domain, mobads.baidu.com
@@ -513,6 +522,8 @@ domain, pagead2.googleadservices.com
 domain, pagead2.googlesyndication.com
 domain, pangolin-sdk-toutiao-b.com
 domain, pay.sboot.cn
+domain, pcm-img.zhls.qq.com
+domain, pgdt.gtimg.cn
 domain, pgdt.ugdtimg.com
 domain, pglstatp-toutiao.com
 domain, pig.pupuapi.com
@@ -594,6 +605,7 @@ domain, snowflake.qq.com
 domain, stat.dongqiudi.com
 domain, stat.y.qq.com
 domain, static.ads-twitter.com
+domain, static.wxqcloud.qq.com.cn
 domain, statics.woozooo.com
 domain, stats.qiumibao.com
 domain, stats.wp.com
@@ -648,6 +660,7 @@ domain, tsvrv.com
 domain, tvuser-ch.cedock.com
 domain, tx-ad.a.yximgs.com
 domain, tx-kmpaudio.pull.yximgs.com
+domain, tytx.m.cn.miaozhen.com
 domain, tz.sec.xiaomi.com
 domain, uapi.ads.heytapmobi.com
 domain, udc.yahoo.com
@@ -688,31 +701,8 @@ domain, volc.bj.ad.track.66mobi.com
 domain, vungle.com
 domain, w.l.qq.com
 domain, w1.askwai.com
-domain, w1.bskwai.com
-domain, w1.cskwai.com
-domain, w1.dskwai.com
-domain, w1.eskwai.com
-domain, w1.fskwai.com
 domain, w1.gskwai.com
-domain, w1.hskwai.com
-domain, w1.iskwai.com
-domain, w1.jskwai.com
 domain, w1.kskwai.com
-domain, w1.lskwai.com
-domain, w1.mskwai.com
-domain, w1.nskwai.com
-domain, w1.oskwai.com
-domain, w1.pskwai.com
-domain, w1.qskwai.com
-domain, w1.rskwai.com
-domain, w1.sskwai.com
-domain, w1.tskwai.com
-domain, w1.uskwai.com
-domain, w1.vskwai.com
-domain, w1.wskwai.com
-domain, w1.xskwai.com
-domain, w1.yskwai.com
-domain, w1.zskwai.com
 domain, watson.microsoft.com
 domain, watson.telemetry.microsoft.com
 domain, wcp.taobao.com
@@ -722,6 +712,7 @@ domain, webstat.qiumibao.com
 domain, webview.unityads.unity3d.com
 domain, widgets.outbrain.com
 domain, widgets.pinterest.com
+domain, wildcard.moatads.com.edgekey.net
 domain, win.gdt.qq.com
 domain, wn.x.jd.com
 domain, ws-keyboard.shouji.sogou.com
