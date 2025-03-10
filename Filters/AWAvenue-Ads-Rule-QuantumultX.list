@@ -1,7 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 757
 #Version: 1.5.8-乙巳蛇年🐍-release
+#Update time: 2025-03-08 22:35:13 UTC+8
+#Update content: fix “terms-drcn.platform.dbankcloud.cn” #122
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -91,6 +93,7 @@ DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.tiktok.com,reject
 DOMAIN,ads.v3mh.com,reject
 DOMAIN,ads.youtube.com,reject
+DOMAIN,ads.zhinengxiyifang.cn,reject
 DOMAIN,ads3-normal-hl.zijieapi.com,reject
 DOMAIN,ads3-normal-lf.zijieapi.com,reject
 DOMAIN,ads3-normal-lq.zijieapi.com,reject
@@ -199,6 +202,7 @@ DOMAIN,api.jietuhb.com,reject
 DOMAIN,api.kingdata.ksyun.com,reject
 DOMAIN,api.statsig.com,reject
 DOMAIN,api.touch-moblie.com,reject
+DOMAIN,api.yfanads.com,reject
 DOMAIN,api5-normal-quic-lf.ixigua.com,reject
 DOMAIN,apiyd.my91app.com,reject
 DOMAIN,apks.webxiaobai.top,reject
@@ -636,7 +640,6 @@ DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
 DOMAIN,tdsdk.xdrig.com,reject
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
-DOMAIN,terms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tj.b.qq.com,reject

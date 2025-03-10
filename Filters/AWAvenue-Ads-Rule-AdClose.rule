@@ -1,7 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 740
+#Total lines: 741
 #Version: 1.5.8-乙巳蛇年🐍-release
+#Update time: 2025-03-08 22:35:13 UTC+8
+#Update content: fix “terms-drcn.platform.dbankcloud.cn” #122
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -90,6 +92,7 @@ domain, ads.service.kugou.com
 domain, ads.tiktok.com
 domain, ads.v3mh.com
 domain, ads.youtube.com
+domain, ads.zhinengxiyifang.cn
 domain, ads3-normal-hl.zijieapi.com
 domain, ads3-normal-lf.zijieapi.com
 domain, ads3-normal-lq.zijieapi.com
@@ -198,6 +201,7 @@ domain, api.jietuhb.com
 domain, api.kingdata.ksyun.com
 domain, api.statsig.com
 domain, api.touch-moblie.com
+domain, api.yfanads.com
 domain, api5-normal-quic-lf.ixigua.com
 domain, apiyd.my91app.com
 domain, apks.webxiaobai.top
@@ -635,7 +639,6 @@ domain, tdc.qq.com
 domain, tdsdk.cpatrk.net
 domain, tdsdk.xdrig.com
 domain, tencent-dtv.m.cn.miaozhen.com
-domain, terms-drcn.platform.dbankcloud.cn
 domain, test.ad.xiaomi.com
 domain, test.e.ad.xiaomi.com
 domain, tj.b.qq.com
