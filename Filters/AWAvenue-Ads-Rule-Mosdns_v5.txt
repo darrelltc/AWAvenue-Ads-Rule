@@ -1,5 +1,6 @@
 domain:1010pic.com
 domain:1500020991.vodplayer.wxamedia.com
+domain:1500026601.vodplayer.wxamedia.com
 domain:8le8le.com
 domain:a0.app.xiaomi.com
 domain:aaid.umeng.com
@@ -625,6 +626,7 @@ domain:tdc.qq.com
 domain:tdsdk.cpatrk.net
 domain:tdsdk.xdrig.com
 domain:tencent-dtv.m.cn.miaozhen.com
+domain:terms-drcn.platform.dbankcloud.cn
 domain:test.ad.xiaomi.com
 domain:test.e.ad.xiaomi.com
 domain:tj.b.qq.com
